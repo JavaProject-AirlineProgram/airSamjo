@@ -7,7 +7,7 @@ import java.util.List;
 import static jiwon.enumset.Continent.*;
 import static jiwon.enumset.Theme.*;
 
-public class StatusRepository {
+public class AirlineInfo {
   static List<City> city;
 
   // 편도 가격, 좌석 등급마다 1배, 1.5배, 2배 *2
